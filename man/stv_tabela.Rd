@@ -7,7 +7,7 @@
 stv_tabela(dados)
 }
 \arguments{
-\item{dados}{Vetor numérico d contendo os valores da série.}
+\item{dados}{Vetor numérico contendo os valores da série.}
 }
 \value{
 Uma tabela das principais estatísticas da série temporal.

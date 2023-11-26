@@ -1,6 +1,6 @@
 #' @title Tabela das Principais Estatísticas
 #'
-#' @param dados Vetor numérico d contendo os valores da série.
+#' @param dados Vetor numérico contendo os valores da série.
 #'
 #' @description
 #' Função que retorna uma tabela com as principais estatísticas da série temporal
