@@ -3,6 +3,7 @@
 export(stv_acf)
 export(stv_pacf)
 export(stv_seq)
+export(stv_tabela)
 import(gganimate)
 import(ggdark)
 import(ggplot2)
